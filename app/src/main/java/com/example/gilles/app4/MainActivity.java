@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
 
         int i = 3 ;
-        int j = 55;
+        int j = 77;
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
